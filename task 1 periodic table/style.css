@@ -1,0 +1,21 @@
+*{
+    background: #000;
+}
+table{
+    color: white;
+    justify-content: center;
+    display: grid;
+    width:100%
+    
+     
+}
+caption{
+    color: crimson;
+    text-align: center;
+    font-size: 50px;
+    
+    
+}
+td{
+    text-align: center;
+}
