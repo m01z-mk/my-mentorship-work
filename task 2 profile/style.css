@@ -1,0 +1,29 @@
+* {
+    background-color: white
+}
+
+img {
+height: 100px;
+margin-left: auto;
+margin-right: auto;
+}
+
+header {
+display: grid;
+justify-content: center;
+text-align: center;
+backface-visibility: inherit;
+}
+
+hr {
+    visibility: hidden;
+}
+
+.projects {
+    display: flex;
+    gap: 100px;
+}
+
+footer {
+    text-align: center;
+}
